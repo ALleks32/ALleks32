@@ -56,8 +56,3 @@ My name is Alexandr Antropov, I am a Python developer on the backend and special
  </tr>
 </tbody></table>
 
-
-
-<img src="https://raw.githubusercontent.com/ALleks32/ALleks32/9905235a9440bf0d67604e110d48ee0ba0e6a559/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
-
-
