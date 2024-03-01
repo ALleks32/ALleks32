@@ -15,7 +15,7 @@ My name is Alexandr Antropov, I am a Python developer on the backend and special
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ALleks32&bg_color=0d1117&color=637381&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ALleks32&bg_color=0d1117&color=637381&line=139ae1&point=ffffff&area=true&hide_border=true)](https://alexandr-antropov.ru/)
 <blockquote>
     
 <p dir="auto">Tools and technologies that I have worked with and am interested in</p>
