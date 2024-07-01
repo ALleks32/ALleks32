@@ -23,7 +23,7 @@ My name is Alexandr Antropov, I am a Python developer on the backend and special
 
 <table>
   <tbody><tr>
-    <td align="center" width="96">
+    <td align="center" width="97">
       <a href="#macropower-tech">
         <img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;">
       </a>
