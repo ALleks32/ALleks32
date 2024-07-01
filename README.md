@@ -38,7 +38,7 @@ My name is Alexandr Antropov, I am a Python developer on the backend and special
       <br>Git
     </td>
        <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/945a70b026ad34e988bd52823d9c738aa471ebb1cc6c09f34c0cfa7df3f0e82f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/945a70b026ad34e988bd52823d9c738aa471ebb1cc6c09f34c0cfa7df3f0e82f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/945a70b026ad34e988bd52823d9c738aa471ebb1cc6c09f34c0cfa7df3f0e82f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/945a70b026ad34e988bd52823d9c738aa471ebb1cc6c09f34c0cfa7df3f0e82f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="50" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
       <br>PostgreSQL
     </td>
      <td align="center" width="96">
